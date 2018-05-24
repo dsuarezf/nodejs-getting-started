@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-getting-started",
+  "version": "1.0.0",
+  "description": "Simple Web server",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsuarezf/nodejs-getting-started.git"
+  },
+  "author": "david.suarez.fuentes@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dsuarezf/nodejs-getting-started/issues"
+  },
+  "homepage": "https://github.com/dsuarezf/nodejs-getting-started#readme"
+}
