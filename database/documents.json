@@ -1,0 +1,17 @@
+{
+   "document1" : {
+	  "id1" : 1,
+      "name" : "document 01",
+	  "author" : "John Dow"
+   },
+   "document2" : {
+	  "id1" : 2,
+      "name" : "document 02",
+	  "author" : "Bob"
+   },
+   "document3" : {
+	  "id1" : 3,
+      "name" : "document 03",
+	  "author" : "Alice"
+   }
+}
