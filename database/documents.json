@@ -1,17 +1,17 @@
 {
-   "document1" : {
-	  "id" : 1,
-      "name" : "document 01",
-	  "author" : "John Dow"
-   },
-   "document2" : {
-	  "id" : 2,
-      "name" : "document 02",
-	  "author" : "Bob"
-   },
-   "document3" : {
-	  "id" : 3,
-      "name" : "document 03",
-	  "author" : "Alice"
-   }
+    "document1": {
+        "id": 1,
+        "name": "document 01",
+        "author": "John Dow"
+    },
+    "document2": {
+        "id": 2,
+        "name": "document 02",
+	    "author": "Bob"
+    },
+    "document3": {
+	    "id": 3,
+        "name": "document 03",
+	    "author": "Alice"
+    }
 }
