@@ -1,17 +1,17 @@
 {
     "id1": {
         "name": "document 01",
-        "author": "John Dow"
+        "author": "John Dow",
         "numberOfWords": 100
     },
     "id2": {
         "name": "document 02",
-	    "author": "Bob"
+	    "author": "Bob",
 	    "numberOfWords": 300
     },
     "id3": {
         "name": "document 03",
-	    "author": "Alice"
+	    "author": "Alice",
 	    "numberOfWords": 400
     }
 }
