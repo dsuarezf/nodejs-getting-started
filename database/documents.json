@@ -6,12 +6,12 @@
     },
     "id2": {
         "name": "document 02",
-	    "author": "Bob",
-	    "numberOfWords": 300
+        "author": "Bob",
+        "numberOfWords": 300
     },
     "id3": {
         "name": "document 03",
-	    "author": "Alice",
-	    "numberOfWords": 400
+        "author": "Alice",
+        "numberOfWords": 400
     }
 }
