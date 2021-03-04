@@ -25,7 +25,7 @@ List all documents:
 
 Add a new document:
 
-    curl -i -X POST -H 'Content-Type: application/json' -d '{{"name": "document 04", "author": "Julian Heart", "numberOfWords": 500}' http://localhost:3000/documents
+    curl -i -X POST -H 'Content-Type: application/json' -d '{{"name": "Don Quijote", "author": "Miguel de Cervantes", "numberOfWords": 500}' http://localhost:3000/documents
 
 Get a specific document:
 
